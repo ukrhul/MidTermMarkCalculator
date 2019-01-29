@@ -1,0 +1,7 @@
+c:\users\rahul\documents\visual studio 2015\Projects\MidTermMarkCalculation\MidTermMarkCalculation\bin\Debug\MidTermMarkCalculation.exe.config
+c:\users\rahul\documents\visual studio 2015\Projects\MidTermMarkCalculation\MidTermMarkCalculation\bin\Debug\MidTermMarkCalculation.exe
+c:\users\rahul\documents\visual studio 2015\Projects\MidTermMarkCalculation\MidTermMarkCalculation\bin\Debug\MidTermMarkCalculation.pdb
+c:\users\rahul\documents\visual studio 2015\Projects\MidTermMarkCalculation\MidTermMarkCalculation\obj\Debug\MidTermMarkCalculation.csprojResolveAssemblyReference.cache
+c:\users\rahul\documents\visual studio 2015\Projects\MidTermMarkCalculation\MidTermMarkCalculation\obj\Debug\MidTermMarkCalculation.exe
+c:\users\rahul\documents\visual studio 2015\Projects\MidTermMarkCalculation\MidTermMarkCalculation\obj\Debug\MidTermMarkCalculation.pdb
+C:\Users\Rahul\Documents\Visual Studio 2015\Projects\MidTermMarkCalculation\MidTermMarkCalculation\obj\Debug\MidTermMarkCalculation.csproj.CoreCompileInputs.cache
